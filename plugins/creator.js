@@ -1,5 +1,5 @@
 let handler = function (m) {
-  // this.sendContact(m.chat, '6281515860089', 'Nurutomo', m)
+  // this.sendContact(m.chat, '6281343989930', 'Rafi', m)
   let contacts = []
   for (let a of Object.keys(Owner)) {
 let owner = Owner[a]
